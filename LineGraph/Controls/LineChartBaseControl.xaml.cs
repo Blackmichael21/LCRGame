@@ -42,7 +42,7 @@ namespace LCRGame.LineGraph.Controls
         {
             InitializeComponent();
 
-            //Could create a system to add random colors, but for the scope of this project I am just adding these three.
+            //Could create a system to add random colors, but for the scope of this project I am just adding these few.
             DistinctColorList.Add(Brushes.Red);
             DistinctColorList.Add(Brushes.Green);
             DistinctColorList.Add(Brushes.Blue);
